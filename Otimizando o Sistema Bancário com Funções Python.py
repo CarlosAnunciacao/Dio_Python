@@ -1,5 +1,5 @@
 import textwrap
-
+## Esse import foi curiosidade do professor
 
 def menu():
     menu_string = """\n
